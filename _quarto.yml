@@ -5,9 +5,12 @@ project:
     - files/
 
 website:
-  title: "Your Name"
+  title: "You-Chen Chen"
+
   navbar:
     right:
+      - text: "Home"
+        href: index.qmd
       - text: "CV"
         href: files/cv.pdf
 

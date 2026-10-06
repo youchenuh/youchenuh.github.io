@@ -1,31 +1,156 @@
 ---
-title: "You-Chen, Chen"
-subtitle: "Graduate student in political science"
+title: "You-Chen Chen"
+subtitle: "Ph.D. Student in Political Science | University of Houston"
+
 about:
   template: jolla
-  image: files/profile-placeholder.svg
-  image-alt: "Placeholder profile picture"
+  image: files/IMG_9439.jpg
+  image-alt: "A fluffy dog resting on a blanket"
   links:
     - icon: envelope
       text: Email
-      href: mailto:you@uh.edu
+      href: mailto:ychen266@cougarnet.uh.edu
     - icon: github
       text: GitHub
-      href: https://github.com/yourusername
+      href: https://github.com/youchenuh
+    - icon: file-earmark-pdf
+      text: CV
+      href: files/cv.pdf
 ---
 
-## About
+## About Me
 
-Write two or three sentences about who you are, what you study, and what kinds of work interest you.
+I am a Ph.D. student in Political Science at the University of Houston.
 
-## Publications
+My research interests lie at the intersection of political behavior, political psychology, public opinion, and legislative politics. I am particularly interested in how citizens evaluate political representatives and how political identities, policy experiences, and political information shape public attitudes and democratic accountability.
 
-- Add a citation and a link to a paper here. If you do not have a publication yet, list a working paper or rename this section **Research**.
+My research employs quantitative methods, survey experiments, and text analysis to study political representation, public opinion, and policy feedback.
 
-## Teaching
+## Research Interests
 
-- Add a course, workshop, tutoring role, or teaching interest here.
+Political Behavior · Political Psychology · Public Opinion · Legislative Politics · Political Representation · Policy Feedback
+
+## Peer-Reviewed Journal Articles
+
+**2025**
+
+Hawang, Shiow-Duan, and **You-Chen Chen**. "[Voters' Evaluation of Legislators' Consistency and Inconsistency in Positions: Evidence from Survey Experiments](https://jestw.nccu.edu.tw/web/issue/issue_info.jsp?lang=en&pd_id=PD1750815837472)." *Journal of Electoral Studies* 32 (1): 39–78. (In Chinese).
+
+Tsai, Cheng-Han, Shiow-Duan Hawang, and **You-Chen Chen**. "[The Relationship between Legislators' Political Ambition and Legislative Performances: A Machine Learning Approach](https://jpap.ntpu.edu.tw/journal/NTg3)." *Public Administration & Policy*, no. 80: 39–70. (In Chinese).
+
+**2023**
+
+Hawang, Shiow-Duan, Cheng-Han Tsai, and **You-Chen Chen**. "[Where You Stand Depends on Where You Sit: The Impact of the Incumbent on Taiwanese Legislators' Stance on Issues of Importing US Pork and Beef](https://politics.ntu.edu.tw/psr/?p=5415&post_type=english)." *Taiwanese Journal of Political Science*, no. 98: 41–82. (In Chinese).
+
+**2022**
+
+Yu, Meng-Che, Shiow-Duan Hawang, and **You-Chen Chen**. "[Voters' Expectation Discrepancy, Citizen Watch, and Congressional Performance: An Analysis of the Ninth Legislative Yuan in Taiwan](https://www.airitilibrary.com/Article/Detail?DocID=17269350-202203-202207280011-202207280011-41-82)." *Taiwan Democracy Quarterly* 19 (1): 41–82. (In Chinese).
+
+**2021**
+
+Shen, Yu-Chung, and **You-Chen Chen**. "[Directly Elected President, Democratization and Party System Change: A Comparative Study on European Countries](https://wenti.nccu.edu.tw/issue_detail.aspx?docData_id=2&p=8&q=EC&url_type=4)." *Wenti Yu Yanjiu* 60 (3): 1–33. (In Chinese).
+
+**2020**
+
+Shen, Yu-Chung, and **You-Chen Chen**. "[Election Campaigns on Social Media: A Study of Taiwan's 2018 Municipal Elections](https://toaj.stpi.niar.org.tw/index/journal/volume/article/4b1141f986edd7c801870817489308fc)." *Journal of National Development Studies* 19 (2): 129–154. (In Chinese).
 
 ## Working Papers
 
-- Add a working-paper title, coauthors, status, and a link to a draft when one is available.
+**Learning from the ACA: Policy Experiences, Partisanship, and Ambiguity Policy Preferences**
+
+You-Chen Chen and Ling Zhu.
+
+**Reconsidering the Immigratization of Welfare Attitudes: The Role of Party Identity and Intra-Party Heterogeneity**
+
+You-Chen Chen.
+
+**Beyond Promise Keeping: Democratic Accountability under Competing Political Pressures**
+
+Shiow-Duan Hawang, You-Chen Chen, Yung-Ming Hsu, and Fang-Yu Chen.
+
+**Voting with Tears? Party Position Change and Evaluation**
+
+Shiow-Duan Hawang and You-Chen Chen.
+
+**Political Judgment under Scandal: Misconduct, Accountability Demands, and Partisan Updating in Taiwan**
+
+Shiow-Duan Hawang, You-Chen Chen, and Yung-Ming Hsu.
+
+**Selective Examinations and Authoritarian State-Building: Narratives of National Unity and Frontier Governance in China's Gaokao**
+
+Liang Li, Ning Li, and You-Chen Chen.
+
+## Selected Conference Presentations
+
+**2026 — American Political Science Association Annual Meeting**
+
+"Learning from the ACA: Policy Experiences, Partisanship, and Ambivalent Policy Preferences."
+
+With Ling Zhu.
+
+Boston, Massachusetts.
+
+**2026 — American Political Science Association Annual Meeting**
+
+"Selective Examinations and Authoritarian State-Building: Narratives of National Unity and Frontier Governance in China's Gaokao."
+
+With Liang Li and Ning Li.
+
+Boston, Massachusetts.
+
+**2025 — American Political Science Association Annual Meeting**
+
+"Does Magnitude Matter When Voters Evaluate Politicians' Changes?"
+
+With Shiow-Duan Hawang.
+
+Vancouver, Canada.
+
+**2023 — American Political Science Association Annual Meeting**
+
+"Citizens' Perspectives of Legislator Dissent: Experimental Evidence."
+
+With Shiow-Duan Hawang.
+
+Los Angeles, California.
+
+## Teaching Experience
+
+### University of Houston
+
+- Teaching Assistant, Quantitative Methods I Lab (Fall 2026).
+
+### Soochow University
+
+- Instructor, Data Analysis for Social Science (2024).
+- Lecturer, RStudio Application Workshop (2022–2023).
+
+### Tunghai University
+
+- Lecturer, Political Quantitative Research Methods Workshop (2023–2024).
+
+## Education
+
+**University of Houston**
+
+Ph.D. Student, Political Science.
+
+**Tunghai University, Taiwan**
+
+M.A., Political Science.
+
+B.A., Political Science.
+
+## Honors and Awards
+
+**2024**
+
+Excellence in Teaching Award, Soochow University.
+
+**2023**
+
+First Generation Travel Grant, American Political Science Association.
+
+## Curriculum Vitae
+
+For additional information about my research, publications, conference presentations, teaching experience, and awards, please see my [Curriculum Vitae (PDF)](files/cv.pdf).
