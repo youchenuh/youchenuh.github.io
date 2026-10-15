@@ -4,7 +4,7 @@ subtitle: "Ph.D. Student in Political Science | University of Houston"
 
 about:
   template: jolla
-  image: files/IMG_9439.jpg
+  image: image: files/profile.jpg
   image-alt: "A fluffy dog resting on a blanket"
   links:
     - icon: envelope
