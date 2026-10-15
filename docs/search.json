@@ -1,24 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "index.html#about-me-1",
+    "href": "index.html#about-me-1",
     "title": "You-Chen Chen",
-    "section": "",
-    "text": "I am a Ph.D. student in Political Science at the University of Houston.\nMy research interests lie at the intersection of political behavior, political psychology, public opinion, and legislative politics. I am particularly interested in how citizens evaluate political representatives and how political identities, policy experiences, and political information shape public attitudes and democratic accountability.\nMy research employs quantitative methods, survey experiments, and text analysis to study political representation, public opinion, and policy feedback."
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "You-Chen Chen",
-    "section": "",
-    "text": "I am a Ph.D. student in Political Science at the University of Houston.\nMy research interests lie at the intersection of political behavior, political psychology, public opinion, and legislative politics. I am particularly interested in how citizens evaluate political representatives and how political identities, policy experiences, and political information shape public attitudes and democratic accountability.\nMy research employs quantitative methods, survey experiments, and text analysis to study political representation, public opinion, and policy feedback."
+    "section": "About Me",
+    "text": "About Me\nI am a Ph.D. student in Political Science at the University of Houston.\nMy research focuses on political behavior, political psychology, and legislative politics. I am particularly interested in how citizens evaluate political representatives and how political identities and policy experiences shape public opinion."
   },
   {
     "objectID": "index.html#research-interests",
     "href": "index.html#research-interests",
     "title": "You-Chen Chen",
     "section": "Research Interests",
-    "text": "Research Interests\nPolitical Behavior · Political Psychology · Public Opinion · Legislative Politics · Political Representation · Policy Feedback"
+    "text": "Research Interests\nPolitical Behavior · Political Psychology · Public Opinion · Legislative Politics · Representation"
   },
   {
     "objectID": "index.html#peer-reviewed-journal-articles",

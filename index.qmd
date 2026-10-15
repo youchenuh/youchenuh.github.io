@@ -4,7 +4,7 @@ subtitle: "Ph.D. Student in Political Science | University of Houston"
 
 about:
   template: jolla
-  image: image: files/profile.jpg
+  image: files/profile.jpg
   image-alt: "A fluffy dog resting on a blanket"
   links:
     - icon: envelope
@@ -20,15 +20,15 @@ about:
 
 ## About Me
 
+## About Me
+
 I am a Ph.D. student in Political Science at the University of Houston.
 
-My research interests lie at the intersection of political behavior, political psychology, public opinion, and legislative politics. I am particularly interested in how citizens evaluate political representatives and how political identities, policy experiences, and political information shape public attitudes and democratic accountability.
-
-My research employs quantitative methods, survey experiments, and text analysis to study political representation, public opinion, and policy feedback.
+My research focuses on political behavior, political psychology, and legislative politics. I am particularly interested in how citizens evaluate political representatives and how political identities and policy experiences shape public opinion.
 
 ## Research Interests
 
-Political Behavior · Political Psychology · Public Opinion · Legislative Politics · Political Representation · Policy Feedback
+Political Behavior · Political Psychology · Public Opinion · Legislative Politics · Representation 
 
 ## Peer-Reviewed Journal Articles
 
